@@ -1,5 +1,6 @@
 It's not a see you later, it's a goodbye.
 
+.
 
 Dear everyone in this server,
 
@@ -18,4 +19,5 @@ While I may be leaving Discord, please know that I am not disappearing entirely.
 Thank you, from the bottom of my heart, for the incredible memories and experiences weve shared on Discord. Though I may be saying goodbye for now, please know that you will always hold a special place in my thoughts and memories.
 
 With warm regards and heartfelt gratitude,
+
 Chloe.
